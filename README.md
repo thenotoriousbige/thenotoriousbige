@@ -1,6 +1,6 @@
 - 👋 Hi, I’m TheNotoriousBigE
 - 👀 I’m interested in reactjs, nextjs,aws , blockchain
-- 🌱 I’m currently learning Blochchain
+- 🌱 I’m currently learning Blockchain
 - 💞️ I’m looking to collaborate on freelance projects
 - 📫 How to reach me 
 
