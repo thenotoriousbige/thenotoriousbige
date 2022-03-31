@@ -1,6 +1,6 @@
 - 👋 Hi, I’m TheNotoriousBigE
 - 👀 I’m interested in reactjs, nextjs,aws , blockchain
-- 🌱 I’m currently learning Blockchain
+- 🌱 I’m currently learning Blockchain and building [@Curato](https://curato.link)
 - 💞️ I’m looking to collaborate on freelance projects
 - 📫 How to reach me 
 
